@@ -1,0 +1,10 @@
+Package: windturbine
+Type: Package
+Title: R Package for Wind Turbine Analytics Web App
+Version: 0.1.0
+Author: Arup Kamal
+Maintainer: Arup Kamal <arup.kamal@gmail.com>
+Description: Demo for R ConfeRence 2022 Malaysia
+License: MIT License
+Encoding: UTF-8
+LazyData: true
